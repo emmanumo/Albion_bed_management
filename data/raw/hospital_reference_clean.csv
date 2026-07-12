@@ -1,0 +1,6 @@
+hospital_id,hospital_name,city,tier,specialty_emphasis,total_bed_capacity
+"HHN-LON-01","Horizon London Central","London","Flagship","General",224
+"HHN-LON-02","Horizon Riverside","London","Large","Oncology",152
+"HHN-MAN-01","Horizon Manchester","Manchester","Large","Orthopaedics",164
+"HHN-BIR-01","Horizon Birmingham","Birmingham","Medium","Cardiology",126
+"HHN-EDI-01","Horizon Edinburgh","Edinburgh","Medium","General",94
