@@ -3,10 +3,34 @@ import pandas as pd
 import requests
 
 
-BASE_URL = os.getenv(
-    "ALBION_API_URL",
-    "http://127.0.0.1:8000"
-)
+import os
+
+import pandas as pd
+import requests
+
+
+def _get_base_url():
+
+    # Streamlit Community Cloud
+    try:
+        import streamlit as st
+
+        if "ALBION_API_URL" in st.secrets:
+            return str(
+                st.secrets["ALBION_API_URL"]
+            ).rstrip("/")
+
+    except Exception:
+        pass
+
+    # Other deployment environments
+    return os.getenv(
+        "ALBION_API_URL",
+        "http://127.0.0.1:8000"
+    ).rstrip("/")
+
+
+BASE_URL = _get_base_url()
 
 
 def _get_json(endpoint):
