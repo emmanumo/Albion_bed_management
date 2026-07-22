@@ -1,0 +1,121 @@
+hospital_id,ward,date,actual_occupied_beds,predicted_occupied_beds
+HHN-BIR-01,Cardiology Ward,2025-12-29,17,22.62
+HHN-BIR-01,Cardiology Ward,2025-12-30,15,22.7
+HHN-BIR-01,Cardiology Ward,2025-12-31,14,22.76
+HHN-BIR-01,Day Case Unit,2025-12-29,0,0.6
+HHN-BIR-01,Day Case Unit,2025-12-30,0,0.59
+HHN-BIR-01,Day Case Unit,2025-12-31,0,0.63
+HHN-BIR-01,General Medicine Ward A,2025-12-29,16,15.62
+HHN-BIR-01,General Medicine Ward A,2025-12-30,16,14.45
+HHN-BIR-01,General Medicine Ward A,2025-12-31,16,14.92
+HHN-BIR-01,General Medicine Ward B,2025-12-29,16,17.98
+HHN-BIR-01,General Medicine Ward B,2025-12-30,16,16.65
+HHN-BIR-01,General Medicine Ward B,2025-12-31,16,16.05
+HHN-BIR-01,Icu,2025-12-29,9,8.03
+HHN-BIR-01,Icu,2025-12-30,9,7.84
+HHN-BIR-01,Icu,2025-12-31,9,8.03
+HHN-BIR-01,Oncology Ward,2025-12-29,10,11.32
+HHN-BIR-01,Oncology Ward,2025-12-30,10,12.1
+HHN-BIR-01,Oncology Ward,2025-12-31,10,13.41
+HHN-BIR-01,Orthopaedics Ward A,2025-12-29,11,10.82
+HHN-BIR-01,Orthopaedics Ward A,2025-12-30,11,10.61
+HHN-BIR-01,Orthopaedics Ward A,2025-12-31,11,10.34
+HHN-BIR-01,Orthopaedics Ward B,2025-12-29,9,9.46
+HHN-BIR-01,Orthopaedics Ward B,2025-12-30,10,9.7
+HHN-BIR-01,Orthopaedics Ward B,2025-12-31,11,9.82
+HHN-EDI-01,Cardiology Ward,2025-12-29,16,13.49
+HHN-EDI-01,Cardiology Ward,2025-12-30,16,13.56
+HHN-EDI-01,Cardiology Ward,2025-12-31,15,13.02
+HHN-EDI-01,Day Case Unit,2025-12-29,1,0.73
+HHN-EDI-01,Day Case Unit,2025-12-30,0,0.63
+HHN-EDI-01,Day Case Unit,2025-12-31,0,0.1
+HHN-EDI-01,General Medicine Ward A,2025-12-29,17,18.47
+HHN-EDI-01,General Medicine Ward A,2025-12-30,17,17.05
+HHN-EDI-01,General Medicine Ward A,2025-12-31,17,16.35
+HHN-EDI-01,General Medicine Ward B,2025-12-29,14,16.48
+HHN-EDI-01,General Medicine Ward B,2025-12-30,17,16.08
+HHN-EDI-01,General Medicine Ward B,2025-12-31,16,15.87
+HHN-EDI-01,Icu,2025-12-29,8,7.72
+HHN-EDI-01,Icu,2025-12-30,8,7.53
+HHN-EDI-01,Icu,2025-12-31,8,7.34
+HHN-EDI-01,Oncology Ward,2025-12-29,12,11.65
+HHN-EDI-01,Oncology Ward,2025-12-30,13,11.82
+HHN-EDI-01,Oncology Ward,2025-12-31,13,11.77
+HHN-EDI-01,Orthopaedics Ward A,2025-12-29,10,11.04
+HHN-EDI-01,Orthopaedics Ward A,2025-12-30,10,10.6
+HHN-EDI-01,Orthopaedics Ward A,2025-12-31,10,10.62
+HHN-EDI-01,Orthopaedics Ward B,2025-12-29,10,10.17
+HHN-EDI-01,Orthopaedics Ward B,2025-12-30,10,9.78
+HHN-EDI-01,Orthopaedics Ward B,2025-12-31,10,9.77
+HHN-LON-01,Cardiology Ward,2025-12-29,38,39.06
+HHN-LON-01,Cardiology Ward,2025-12-30,38,38.41
+HHN-LON-01,Cardiology Ward,2025-12-31,38,36.09
+HHN-LON-01,Day Case Unit,2025-12-29,0,-2.72
+HHN-LON-01,Day Case Unit,2025-12-30,1,-16.08
+HHN-LON-01,Day Case Unit,2025-12-31,0,-87.82
+HHN-LON-01,General Medicine Ward A,2025-12-29,34,37.68
+HHN-LON-01,General Medicine Ward A,2025-12-30,35,36.95
+HHN-LON-01,General Medicine Ward A,2025-12-31,34,33.94
+HHN-LON-01,General Medicine Ward B,2025-12-29,29,29.98
+HHN-LON-01,General Medicine Ward B,2025-12-30,32,29.85
+HHN-LON-01,General Medicine Ward B,2025-12-31,35,30.6
+HHN-LON-01,Icu,2025-12-29,18,18.68
+HHN-LON-01,Icu,2025-12-30,18,17.93
+HHN-LON-01,Icu,2025-12-31,18,17.33
+HHN-LON-01,Oncology Ward,2025-12-29,25,24.08
+HHN-LON-01,Oncology Ward,2025-12-30,23,24.09
+HHN-LON-01,Oncology Ward,2025-12-31,22,24.71
+HHN-LON-01,Orthopaedics Ward A,2025-12-29,27,28.43
+HHN-LON-01,Orthopaedics Ward A,2025-12-30,28,28.05
+HHN-LON-01,Orthopaedics Ward A,2025-12-31,28,28.13
+HHN-LON-01,Orthopaedics Ward B,2025-12-29,28,23.86
+HHN-LON-01,Orthopaedics Ward B,2025-12-30,27,23.11
+HHN-LON-01,Orthopaedics Ward B,2025-12-31,26,22.73
+HHN-LON-02,Cardiology Ward,2025-12-29,18,17.88
+HHN-LON-02,Cardiology Ward,2025-12-30,18,17.83
+HHN-LON-02,Cardiology Ward,2025-12-31,18,17.73
+HHN-LON-02,Day Case Unit,2025-12-29,0,0.38
+HHN-LON-02,Day Case Unit,2025-12-30,0,0.19
+HHN-LON-02,Day Case Unit,2025-12-31,1,0.4
+HHN-LON-02,General Medicine Ward A,2025-12-29,18,20.03
+HHN-LON-02,General Medicine Ward A,2025-12-30,18,19.14
+HHN-LON-02,General Medicine Ward A,2025-12-31,18,18.82
+HHN-LON-02,General Medicine Ward B,2025-12-29,18,19.02
+HHN-LON-02,General Medicine Ward B,2025-12-30,18,18.35
+HHN-LON-02,General Medicine Ward B,2025-12-31,18,18.26
+HHN-LON-02,Icu,2025-12-29,8,9.4
+HHN-LON-02,Icu,2025-12-30,8,9.61
+HHN-LON-02,Icu,2025-12-31,10,9.88
+HHN-LON-02,Oncology Ward,2025-12-29,17,21.36
+HHN-LON-02,Oncology Ward,2025-12-30,20,22.85
+HHN-LON-02,Oncology Ward,2025-12-31,22,25.32
+HHN-LON-02,Orthopaedics Ward A,2025-12-29,11,12.87
+HHN-LON-02,Orthopaedics Ward A,2025-12-30,11,12.82
+HHN-LON-02,Orthopaedics Ward A,2025-12-31,12,12.65
+HHN-LON-02,Orthopaedics Ward B,2025-12-29,10,12.04
+HHN-LON-02,Orthopaedics Ward B,2025-12-30,11,11.83
+HHN-LON-02,Orthopaedics Ward B,2025-12-31,12,11.96
+HHN-MAN-01,Cardiology Ward,2025-12-29,22,22.99
+HHN-MAN-01,Cardiology Ward,2025-12-30,21,22.83
+HHN-MAN-01,Cardiology Ward,2025-12-31,24,22.72
+HHN-MAN-01,Day Case Unit,2025-12-29,0,0.3
+HHN-MAN-01,Day Case Unit,2025-12-30,1,0.74
+HHN-MAN-01,Day Case Unit,2025-12-31,1,1.33
+HHN-MAN-01,General Medicine Ward A,2025-12-29,21,18.58
+HHN-MAN-01,General Medicine Ward A,2025-12-30,21,18.95
+HHN-MAN-01,General Medicine Ward A,2025-12-31,21,18.3
+HHN-MAN-01,General Medicine Ward B,2025-12-29,21,21.62
+HHN-MAN-01,General Medicine Ward B,2025-12-30,21,21.26
+HHN-MAN-01,General Medicine Ward B,2025-12-31,21,20.94
+HHN-MAN-01,Icu,2025-12-29,10,9.71
+HHN-MAN-01,Icu,2025-12-30,10,9.8
+HHN-MAN-01,Icu,2025-12-31,9,9.62
+HHN-MAN-01,Oncology Ward,2025-12-29,18,17.19
+HHN-MAN-01,Oncology Ward,2025-12-30,20,16.89
+HHN-MAN-01,Oncology Ward,2025-12-31,20,16.57
+HHN-MAN-01,Orthopaedics Ward A,2025-12-29,21,23.0
+HHN-MAN-01,Orthopaedics Ward A,2025-12-30,19,23.96
+HHN-MAN-01,Orthopaedics Ward A,2025-12-31,15,23.45
+HHN-MAN-01,Orthopaedics Ward B,2025-12-29,18,19.2
+HHN-MAN-01,Orthopaedics Ward B,2025-12-30,23,20.01
+HHN-MAN-01,Orthopaedics Ward B,2025-12-31,21,21.79
