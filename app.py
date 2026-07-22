@@ -3,7 +3,8 @@ import streamlit as st
 
 from api.client import (
     get_hospitals,
-    get_wards
+    get_wards,
+    BASE_URL
 )
 
 from styles.dashboard_style import load_css
@@ -29,6 +30,15 @@ st.set_page_config(
 # ==========================================
 
 load_css()
+
+
+# ==========================================
+# API CONNECTION CHECK
+# ==========================================
+
+st.sidebar.caption(
+    f"API: {BASE_URL}"
+)
 
 
 # ==========================================
